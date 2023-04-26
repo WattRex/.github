@@ -1,2 +1,2 @@
 # Welcome!
-<img src="/profile/logo2.png#center" width="50%">
+<img src="/profile/logo2.png" width="50%">
