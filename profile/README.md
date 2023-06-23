@@ -1,8 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/131867390?s=200&v=4" alt="WattRex Logo" style="float: left; margin-right: 10px;">
-    <h1>TowerPower, a regenerative battery cycler</h1>
-</div>
-
 # Welcome!
 
 The regenerative battery cycler is an innovative project aimed at providing a cost-effective, precise, and easy-to-build solution for testing batteries. It caters to a wide range of individuals and organizations, including researchers, R&D institutions, second life markets, and DIY energy enthusiasts who are interested in battery testing. The roots of this project trace back to 2018 when Pablo Pastor embarked on his PhD journey, focusing on machine learning for second life batteries. During his research, he encountered a significant challenge: there was a scarcity of open-source aging databases. Determined to address this issue, Pastor and his team proposed creating their own databases. However, due to budget constraints, they had to find an affordable solution. The initial concepts were developed within the Group of Power Electronics and Microelectronics (GEPM).
