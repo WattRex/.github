@@ -20,7 +20,7 @@
 
 <p align="justify">To simplify the electronics and eliminate the need for energy transfer to the grid, the system uses an energy accumulator on the high voltage side. This can be achieved using a 12 V car battery or a stack of lithium cells with a voltage exceeding 5.5V. In our lab, a 6V high-capacity deep cycle gel Pb battery is used, allowing multiple cyclers to be connected in parallel. </p>
 
-<p align="justify">The control of TowerPower is accomplished through a CAN bus interface, providing seamless communication between the cycler and the external controller. Additionally, a dedicated control software has been developed and released, enabling users to command test cycles and gather results effectively. [Repo here!](https://github.com/WattRex/Battery-Cyclers-Controler) </p>
+<p align="justify">The control of TowerPower is accomplished through a CAN bus interface, providing seamless communication between the cycler and the external controller. Additionally, a dedicated control software has been developed and released, enabling users to command test cycles and gather results effectively.  <a href="https://github.com/WattRex/Battery-Cyclers-Controler">Repo here</a>!</p>
 
 <p align="justify">In this particular version of the cycler, a low-cost power device with integrated driver and transistors has been chosen. This decision not only reduces costs but also enhances the miniaturization of the product. Furthermore, the switching frequency of the converter has been increased, resulting in a smaller coil size, contributing to the overall cost and compactness of the system. </p>
 
